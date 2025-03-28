@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ExProduto:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="ExProduto.jar">
+      <element id="module-output" name="ExProduto" />
+    </root>
+  </artifact>
+</component>
